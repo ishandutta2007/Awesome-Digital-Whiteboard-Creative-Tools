@@ -30,6 +30,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+
 - [SaaS/Hosted Platforms](#saashosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -42,70 +44,24 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
+## Sector Overview & Market Dynamics
+
+The global interactive and digital whiteboard market is estimated at **$4.6B to $5.3B** (projected to reach over **$7B–$11B by 2030–2035** at a ~6.1%–7.6% CAGR). The visual collaboration sector is **moderately concentrated at the high-end enterprise layer**—dominated by mega-cap ecosystem platforms (Microsoft, Figma) and major incumbents (Miro, Lucid)—while remaining **fragmented across specialized niches** (creative moodboards, agile workshop facilitators, and privacy/compliance platforms) undergoing active acquisition consolidation.
+
 ## SaaS/Hosted Platforms
 
-
-
-- **[Miro](https://miro.com)**  
-
-  Leading enterprise online collaborative whiteboard and visual innovation workspace featuring infinite canvases, AI clustering, timer/voting workshops, and 100+ app integrations.
-
-
-
-- **[FigJam (Figma)](https://figma.com)**  
-
-  Multiplayer online whiteboard built by Figma for product teams to brainstorm, map user flows, run design sprints, and seamlessly copy assets into Figma Design files.
-
-
-
-- **[Mural](https://mural.co)**  
-
-  Visual collaboration and guided facilitation whiteboard platform tailored for design thinking, remote workshops, sticky-note synthesis, and enterprise consulting.
-
-
-
-- **[Lucidspark (Lucid Software)](https://lucid.co)**  
-
-  Cloud virtual whiteboard enabling real-time brainstorming, mind mapping, breakout boards, and direct conversion of sticky notes into Lucidchart technical diagrams.
-
-
-
-- **[Milanote](https://milanote.com)**  
-
-  Visual moodboard and creative organization workspace prized by designers, filmmakers, writers, and creative directors for arranging images, color palettes, notes, and links.
-
-
-
-- **[Microsoft Whiteboard](https://microsoft.com)**  
-
-  Cloud-synced collaborative canvas deeply integrated into Microsoft Teams, Surface Hub, and Microsoft 365 with Copilot sticky-note organization and ink-to-shape tools.
-
-
-
-- **[Conceptboard](https://conceptboard.com)**  
-
-  GDPR-compliant, enterprise-grade online collaborative whiteboard engineered for visual project management, creative asset review, and remote team workshops.
-
-
-
-- **[Stormboard](https://stormboard.com)**  
-
-  Data-driven digital brainstorming and planning workspace combining sticky-note whiteboards with structured smart-templates and instant report exports.
-
-
-
-- **[Klaxoon](https://klaxoon.com)**  
-
-  Interactive visual collaboration suite uniting infinite whiteboards (`Board`), live audience quizzes/polls, and async workshop workflows.
-
-
-
-- **[Bluescape](https://bluescape.com)**  
-
-  High-security virtual visual workspace designed for large-scale media review, multi-wall command centers, and creative production teams.
-
-
-
+| Platform | Company Size (Valuation / Revenue) | Pricing (Starting Tier) | Free Tier Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft Whiteboard](https://microsoft.com)** | **~$3.1T Market Cap** / ~$245B ARR (Microsoft) | Included with Microsoft 365 Personal at **$6.99/mo** (or $69.99/yr); Microsoft 365 Business Basic at **$6.00/user/mo** | **Free forever**: Free web canvas access with a personal Microsoft Account (5 GB cloud storage limit; standalone native apps retired in favor of web/Teams) | Cloud-synced collaborative canvas deeply integrated into Microsoft Teams, Surface Hub, and Microsoft 365 with Copilot sticky-note organization and ink-to-shape tools. |
+| **[FigJam (Figma)](https://figma.com)** | **~$68B Market Cap** / ~$1.06B ARR (Figma, NYSE: FIG) | **$3.00/user/mo** (Collab seat for FigJam); Full Figma Editor seat from **$20.00/user/mo** (billed annually) | **Free forever**: Free Starter plan allows up to **3 active collaborative files**, up to 3 pages per file, and 30-day version history | Multiplayer online whiteboard built by Figma for product teams to brainstorm, map user flows, run design sprints, and seamlessly copy assets into Figma Design files. |
+| **[Lucidspark (Lucid Software)](https://lucid.co)** | **~$3.0B–$4.5B Valuation** / ~$150M–$260M ARR | Individual plan starts at **$7.95/mo** (billed annually) or **$9.95/mo** (billed monthly) | **Free forever**: Limited to **3 editable boards**, 3 basic templates, and standard visual collaboration tools | Cloud virtual whiteboard enabling real-time brainstorming, mind mapping, breakout boards, and direct conversion of sticky notes into Lucidchart technical diagrams. |
+| **[Mural](https://mural.co)** | **~$2.0B Valuation** / ~$125M–$189M ARR | Team+ plan starts at **$9.99/user/mo** (billed annually) or **$12.00/user/mo** (billed monthly) | **Free forever**: Unlimited total murals created, but **only 3 most recent murals remain editable** (older boards lock to view-only); unlimited members | Visual collaboration and guided facilitation whiteboard platform tailored for design thinking, remote workshops, sticky-note synthesis, and enterprise consulting. |
+| **[Miro](https://miro.com)** | **~$1.79B Valuation** ($1.355B EV acquisition) / ~$600M+ ARR | Starter plan starts at **$8.00/user/mo** (billed annually) or **$10.00/user/mo** (billed monthly) | **Free forever**: Up to **3 editable boards** (older boards lock to view-only), core templates, unlimited team members, and 10 AI credits/mo | Leading enterprise online collaborative whiteboard and visual innovation workspace featuring infinite canvases, AI clustering, timer/voting workshops, and 100+ app integrations. |
+| **[Bluescape](https://bluescape.com)** | **~$18M–$21M ARR** (Acquired by Charles Thayne Capital) | Team/Pro tier starts at **$10.00/user/mo**; Enterprise custom quotes (formerly ~$20/user/mo Business) | **30-day free trial** with standard workspace features upon sales setup (no self-serve permanent free plan) | High-security virtual visual workspace designed for large-scale media review, multi-wall command centers, and creative production teams. |
+| **[Klaxoon](https://klaxoon.com)** | **~$20M ARR** (€20M+ milestone, acquired by Wrike; $73M total raised) | Starter plan starts at **$24.90/user/mo** (or €24.90/user/mo) | **Free forever**: **1 active open activity** at a time, up to **5 participants/guests**, and maximum **50 ideas** per board | Interactive visual collaboration suite uniting infinite whiteboards (Board), live audience quizzes/polls, and async workshop workflows. |
+| **[Conceptboard](https://conceptboard.com)** | **~€10M–€50M EV Range** (€10M growth round; ~$10.5M raised) | Starter plan starts at **€5.00/user/mo** (approx. $5.40/user/mo) | **Free forever**: Up to **3 active boards**, maximum **100 objects per board**, and 250 MB–500 MB total file storage | GDPR-compliant, enterprise-grade online collaborative whiteboard engineered for visual project management, creative asset review, and remote team workshops. |
+| **[Stormboard](https://stormboard.com)** | **~$10M ARR** (~18 employees) | Business plan starts at **$8.33/user/mo** (billed annually) or **$10.00/user/mo** (billed monthly) | **Free forever**: Up to **5 digital workspaces (Storms)** with a maximum of **5 collaborators** per workspace | Data-driven digital brainstorming and planning workspace combining sticky-note whiteboards with structured smart-templates and instant report exports. |
+| **[Milanote](https://milanote.com)** | **~$2.8M ARR** (20–25 employees, bootstrapped/independent) | Personal plan starts at **$9.99/mo** (billed annually) or **$12.50/mo** (billed monthly) | **Free forever**: Capped at **100 notes, images, or links** across all boards, and **10 file uploads** total | Visual moodboard and creative organization workspace prized by designers, filmmakers, writers, and creative directors for arranging images, color palettes, notes, and links. |
 
 
 ## Open-Source GitHub Projects
