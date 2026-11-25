@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Digital-Whiteboard-Creative-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Whiteboard-Creative-Tools?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Whiteboard-Creative-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Whiteboard-Creative-Tools?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Whiteboard-Creative-Tools/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Digital-Whiteboard-Creative-Tools?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Whiteboard-Creative-Tools/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Digital-Whiteboard-Creative-Tools?color=brightgreen" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Whiteboard-Creative-Tools/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Digital-Whiteboard-Creative-Tools?color=blue" alt="License" /></a>
@@ -65,7 +65,7 @@ The global interactive and digital whiteboard market is estimated at **$4.6B to 
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source applications and infinite-canvas tools, **sorted by star count (descending)**. Each project includes a real-time star badge linking to its GitHub stargazers page.
+Curated open-source applications and infinite-canvas tools, **sorted by Stars_Count (descending)**. Each project includes a real-time Stars_Badge linking to its GitHub stargazers page.
 
 ### 🏆 Core Whiteboards & Infinite Canvases
 
